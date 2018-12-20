@@ -8,10 +8,10 @@ This project is implemented for Boston University, EC601 Mini Project #2. The go
 - The testing dataset includes 200 paints (100 for Van Gogh and 100 for Monet).
 - Here are two Sample paints:
 	- Van Gogh
-	<img src="https://github.com/CliffWang113/EC601_Mini_Project_2/blob/master/Van%20Gogh.jpg">
+	<img src="https://github.com/CliffWang113/EC601_Mini_Project_2/blob/master/Van%20Gogh.jpg" width=500>
 
 	- Claude Monet
-	<img src="https://github.com/CliffWang113/EC601_Mini_Project_2/blob/master/Monet.jpeg">
+	<img src="https://github.com/CliffWang113/EC601_Mini_Project_2/blob/master/Monet.jpeg" width=500>
 	
 ## Results
 
